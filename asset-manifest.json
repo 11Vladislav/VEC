@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VEC/static/css/main.d7d52c08.css",
+    "main.js": "/VEC/static/js/main.355510ec.js",
+    "static/media/hero.jpg": "/VEC/static/media/hero.039d928c871bc1b184fb.jpg",
+    "static/media/logo.png": "/VEC/static/media/logo.ce4ab15371154f53037a.png",
+    "static/media/search-icon.svg": "/VEC/static/media/search-icon.c716ef0e0183d3dea10b7321c806692f.svg",
+    "index.html": "/VEC/index.html",
+    "main.d7d52c08.css.map": "/VEC/static/css/main.d7d52c08.css.map",
+    "main.355510ec.js.map": "/VEC/static/js/main.355510ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d52c08.css",
+    "static/js/main.355510ec.js"
+  ]
+}
