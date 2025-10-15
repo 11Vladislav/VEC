@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VEC/static/css/main.1fdb9524.css",
-    "main.js": "/VEC/static/js/main.d94d8ef8.js",
+    "main.js": "/VEC/static/js/main.ee42845c.js",
     "static/media/hero.jpg": "/VEC/static/media/hero.039d928c871bc1b184fb.jpg",
     "static/media/service-big.jpg": "/VEC/static/media/service-big.b5d01fd11f5370de1939.jpg",
     "static/media/service05.jpg": "/VEC/static/media/service05.779753faef1283ed371d.jpg",
@@ -20,10 +20,10 @@
     "static/media/acc-icon.svg": "/VEC/static/media/acc-icon.f30f3d33eaed3cb3809c8239f7867a01.svg",
     "static/media/clock-icon.svg": "/VEC/static/media/clock-icon.47229a9707437a0259ab033b34d45ea0.svg",
     "main.1fdb9524.css.map": "/VEC/static/css/main.1fdb9524.css.map",
-    "main.d94d8ef8.js.map": "/VEC/static/js/main.d94d8ef8.js.map"
+    "main.ee42845c.js.map": "/VEC/static/js/main.ee42845c.js.map"
   },
   "entrypoints": [
     "static/css/main.1fdb9524.css",
-    "static/js/main.d94d8ef8.js"
+    "static/js/main.ee42845c.js"
   ]
 }
