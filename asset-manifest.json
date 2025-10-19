@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "/VEC/static/css/main.1fdb9524.css",
-    "main.js": "/VEC/static/js/main.ee42845c.js",
+    "main.css": "/VEC/static/css/main.2447d808.css",
+    "main.js": "/VEC/static/js/main.5082a78f.js",
     "static/media/hero.jpg": "/VEC/static/media/hero.039d928c871bc1b184fb.jpg",
+    "static/media/green-costumer.png": "/VEC/static/media/green-costumer.298b316331cbe7455ce0.png",
+    "static/media/oat-costumer.png": "/VEC/static/media/oat-costumer.9ec6217630b6bc1e84fc.png",
     "static/media/service-big.jpg": "/VEC/static/media/service-big.b5d01fd11f5370de1939.jpg",
+    "static/media/carreer-costumer.png": "/VEC/static/media/carreer-costumer.a4d36f3dff7dc70e9c29.png",
+    "static/media/machine-costumer.png": "/VEC/static/media/machine-costumer.c732329cd963a471d49d.png",
+    "static/media/build-costumer.png": "/VEC/static/media/build-costumer.e9be2f97ef33e6d56bc2.png",
+    "static/media/plant-costumer.png": "/VEC/static/media/plant-costumer.85ad8d672b437d246a55.png",
     "static/media/service05.jpg": "/VEC/static/media/service05.779753faef1283ed371d.jpg",
     "static/media/service04.jpg": "/VEC/static/media/service04.f68fb2936efca3f11080.jpg",
     "static/media/service03.jpg": "/VEC/static/media/service03.bfe219a6ef98fc365fb5.jpg",
@@ -11,19 +17,20 @@
     "static/media/service02.jpg": "/VEC/static/media/service02.f757205f637bd182efc2.jpg",
     "static/media/service06.jpg": "/VEC/static/media/service06.0f60b641e133678e7d1e.jpg",
     "static/media/logo.png": "/VEC/static/media/logo.ce4ab15371154f53037a.png",
+    "static/media/henkel.png": "/VEC/static/media/henkel.259a164b9ed51fbe7f0e.png",
     "static/media/serv-icon.svg": "/VEC/static/media/serv-icon.5fa03894d20bac1b5fc5da80e5b117ea.svg",
     "static/media/round-icon.svg": "/VEC/static/media/round-icon.b9d3a1d62f2d33867edda675c4ed3d98.svg",
     "static/media/bag-icon.svg": "/VEC/static/media/bag-icon.a433b9ee3aa3629843f961adf7f5412a.svg",
-    "static/media/search-icon.svg": "/VEC/static/media/search-icon.c716ef0e0183d3dea10b7321c806692f.svg",
     "index.html": "/VEC/index.html",
+    "static/media/search-icon.svg": "/VEC/static/media/search-icon.c716ef0e0183d3dea10b7321c806692f.svg",
     "static/media/prot-icon.svg": "/VEC/static/media/prot-icon.9e3d31e0239117b1bd4936b6e676b3e6.svg",
     "static/media/acc-icon.svg": "/VEC/static/media/acc-icon.f30f3d33eaed3cb3809c8239f7867a01.svg",
     "static/media/clock-icon.svg": "/VEC/static/media/clock-icon.47229a9707437a0259ab033b34d45ea0.svg",
-    "main.1fdb9524.css.map": "/VEC/static/css/main.1fdb9524.css.map",
-    "main.ee42845c.js.map": "/VEC/static/js/main.ee42845c.js.map"
+    "main.2447d808.css.map": "/VEC/static/css/main.2447d808.css.map",
+    "main.5082a78f.js.map": "/VEC/static/js/main.5082a78f.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fdb9524.css",
-    "static/js/main.ee42845c.js"
+    "static/css/main.2447d808.css",
+    "static/js/main.5082a78f.js"
   ]
 }
