@@ -39,6 +39,7 @@ const bottomFeatures = [
 ];
      return (
     <section className={styles.services}>
+      <h2 className={styles.servicesTitle}>Послуги ТОВ “Всеукраїнська екологічна компанія” для Бізнесу:</h2>
       {/* верхние иконки */}
       <div className={styles.topRow}>
         {topServices.map((s, i) => (
