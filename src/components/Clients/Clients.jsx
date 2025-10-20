@@ -8,15 +8,6 @@ import oatCostumer from "../../assets/oat-costumer.png";
 import buildCostumer from "../../assets/build-costumer.png";
 import greenCostumer from "../../assets/green-costumer.png";
 
-import amic1 from "../../assets/Amic1.png";
-import amsz from "../../assets/amsz.png";
-import birdFabric from "../../assets/bird-fabric.png";
-import henkel from "../../assets/henkel.png";
-import newProducts from "../../assets/new-products.png";
-import tbg from "../../assets/tbg.png";
-import wog from "../../assets/WOG1.png";
-
-
 export default function Clients() {
   const circles = [
     { size: 10, left: "10%", top: "25%", delay: 0 },
@@ -84,15 +75,6 @@ export default function Clients() {
             }}
           />
         ))}
-      </div>
-      <div className={styles["clients-logos-wrap"]}> 
-        <img src={amic1} alt="Amic1" className={styles["client-logo"]} />
-        <img src={birdFabric} alt="birdFabric" className={styles["client-logo"]} />
-        <img src={wog} alt="wog" className={styles["client-logo"]} />
-        <img src={henkel} alt="henkel" className={styles["client-logo"]} />
-        <img src={tbg} alt="tbg" className={styles["client-logo"]} />
-        <img src={newProducts} alt="newProducts" className={styles["client-logo"]} />
-        <img src={amsz} alt="amsz" className={styles["client-logo"]} />
       </div>
     </section>
   );

@@ -32,8 +32,7 @@
 /* ✅ Кружки-клиенты (фото) */
 .client-circle {
   position: absolute;
-  border-radius: 50%;
-  object-fit: cover;
+  object-fit: contain;
   transition: transform 0.3s ease;
   z-index: 2;
 }
@@ -55,7 +54,7 @@
   width: 220px;
   height: 220px;
   top: 0;
-  left: 90%;
+  left: 85%;
 }
 
 .circle3 {
