@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VEC/static/css/main.2447d808.css",
-    "main.js": "/VEC/static/js/main.5082a78f.js",
+    "main.css": "/VEC/static/css/main.d77f11f0.css",
+    "main.js": "/VEC/static/js/main.06144594.js",
     "static/media/hero.jpg": "/VEC/static/media/hero.039d928c871bc1b184fb.jpg",
     "static/media/green-costumer.png": "/VEC/static/media/green-costumer.298b316331cbe7455ce0.png",
     "static/media/oat-costumer.png": "/VEC/static/media/oat-costumer.9ec6217630b6bc1e84fc.png",
@@ -16,21 +16,36 @@
     "static/media/service01.jpg": "/VEC/static/media/service01.55e4767903f2b96eecfc.jpg",
     "static/media/service02.jpg": "/VEC/static/media/service02.f757205f637bd182efc2.jpg",
     "static/media/service06.jpg": "/VEC/static/media/service06.0f60b641e133678e7d1e.jpg",
+    "static/media/petrik-costumer.jpg": "/VEC/static/media/petrik-costumer.84c6ad3ff06bc8a27d33.jpg",
+    "static/media/cdm-costumer.jpg": "/VEC/static/media/cdm-costumer.34a735937713e88f03dd.jpg",
+    "static/media/m-costumer.jpg": "/VEC/static/media/m-costumer.a9176b5012050caa8bbc.jpg",
+    "static/media/rivne-costumer.jpg": "/VEC/static/media/rivne-costumer.0f581ca8625042a63816.jpg",
+    "static/media/pgp-costumer.jpg": "/VEC/static/media/pgp-costumer.1129e143680081917879.jpg",
+    "static/media/vipcem-costumer.jpg": "/VEC/static/media/vipcem-costumer.9c41ca814a7ea5cb3eeb.jpg",
+    "static/media/verallia-costumer.jpg": "/VEC/static/media/verallia-costumer.0ba905dc703b21bd64a6.jpg",
     "static/media/logo.png": "/VEC/static/media/logo.ce4ab15371154f53037a.png",
     "static/media/henkel.png": "/VEC/static/media/henkel.259a164b9ed51fbe7f0e.png",
     "static/media/serv-icon.svg": "/VEC/static/media/serv-icon.5fa03894d20bac1b5fc5da80e5b117ea.svg",
     "static/media/round-icon.svg": "/VEC/static/media/round-icon.b9d3a1d62f2d33867edda675c4ed3d98.svg",
+    "static/media/microscope-icon.svg": "/VEC/static/media/microscope-icon.ecde108773d01a1bb6d8ecec67c5e0c0.svg",
     "static/media/bag-icon.svg": "/VEC/static/media/bag-icon.a433b9ee3aa3629843f961adf7f5412a.svg",
+    "static/media/lab-icon.svg": "/VEC/static/media/lab-icon.6422fa8d0f60a4daf5e1a7129a59d3ae.svg",
     "index.html": "/VEC/index.html",
     "static/media/search-icon.svg": "/VEC/static/media/search-icon.c716ef0e0183d3dea10b7321c806692f.svg",
+    "static/media/check-icon.svg": "/VEC/static/media/check-icon.971346b7560486ec18b11dd82aa8acb6.svg",
+    "static/media/list-icon.svg": "/VEC/static/media/list-icon.60876e1cf6286658fe5182957aa78621.svg",
+    "static/media/phone-icon.svg": "/VEC/static/media/phone-icon.3e877d6b622f8246bc293d4a10284974.svg",
     "static/media/prot-icon.svg": "/VEC/static/media/prot-icon.9e3d31e0239117b1bd4936b6e676b3e6.svg",
     "static/media/acc-icon.svg": "/VEC/static/media/acc-icon.f30f3d33eaed3cb3809c8239f7867a01.svg",
     "static/media/clock-icon.svg": "/VEC/static/media/clock-icon.47229a9707437a0259ab033b34d45ea0.svg",
-    "main.2447d808.css.map": "/VEC/static/css/main.2447d808.css.map",
-    "main.5082a78f.js.map": "/VEC/static/js/main.5082a78f.js.map"
+    "static/media/arrow-left.svg": "/VEC/static/media/arrow-left.77ba278c9a9ce1a762cf0b567e8b0a05.svg",
+    "static/media/green-arrow-right.svg": "/VEC/static/media/green-arrow-right.1c872bc540679a03ccb983103e185700.svg",
+    "static/media/arrow-right.svg": "/VEC/static/media/arrow-right.4a13932fd0cd69d16d4ba79e76063ff2.svg",
+    "main.d77f11f0.css.map": "/VEC/static/css/main.d77f11f0.css.map",
+    "main.06144594.js.map": "/VEC/static/js/main.06144594.js.map"
   },
   "entrypoints": [
-    "static/css/main.2447d808.css",
-    "static/js/main.5082a78f.js"
+    "static/css/main.d77f11f0.css",
+    "static/js/main.06144594.js"
   ]
 }
